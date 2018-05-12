@@ -1,0 +1,36 @@
+_repo: A-Choice-of-Miracles_26190
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cox, James A.
+    gutenberg_agent_id: '31858'
+    url: http://www.gutenberg.org/2009/agents/31858
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+- !lcsh 'Miracles -- Fiction'
+title: A Choice of Miracles
+url: http://www.gutenberg.org/ebooks/26190
